@@ -1,0 +1,18 @@
+[
+    {
+        "id": 4,
+        "name": "korzinka",
+        "address": "Boka",
+        "workersId": [2],
+        "productsId": [2,1]
+    },
+    {
+        "id": 5,
+        "name": "Korzinka o",
+        "address": "olmaliq",
+        "workersId": [3,1],
+        "productsId": [
+            3
+        ]
+    }
+]

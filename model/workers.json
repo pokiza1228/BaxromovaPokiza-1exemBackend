@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Eshmat",
+        "position": "manager"
+    },
+    {
+        "id": 2,
+        "name": "toshmat",
+        "position": "qorovul"
+    },
+    {
+        "id": 3,
+        "name": "Ali",
+        "position": "ustoz"
+    }
+]

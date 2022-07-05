@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cola",
+        "price": 10000,
+        "count": 1000
+    },
+    {
+        "id": 2,
+        "name": "Pepsi",
+        "price": 30,
+        "count": 1905000
+    },
+    {
+        "id": 3,
+        "name": "olma",
+        "price": 30,
+        "count": 1905000
+    }
+]
